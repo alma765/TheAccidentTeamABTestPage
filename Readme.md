@@ -1,1 +1,1 @@
-[Link to index](index.html)
+[Link to index](dist/index.html)
